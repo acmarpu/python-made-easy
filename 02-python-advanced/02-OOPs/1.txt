@@ -1,0 +1,17 @@
+OOPS
+Exception Handling
+File Handling
+Serialization
+Regular Expressions and web scraping
+Multi threading
+python Database connectivity (PDBC)
+Decorators
+Generators
+Logging module
+Assertions
+Numpy
+Pandas
+unit testing
+
+
+https://www.youtube.com/watch?v=FmFrZaVumas&list=PLd3UqWTnYXOnpAvWhPcnxyfGDyXf-2WVW

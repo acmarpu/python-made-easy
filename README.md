@@ -1,4 +1,4 @@
-![alt text](https://github.com/acmarpu/images/blob/main/Python/01_python_final_banner.png)
+![alt text](https://github.com/acmarpu/images/blob/main/Python/Final.png)
 
 
 ![Python Learning](https://img.shields.io/badge/Python-Learning%20Notes-blue?logo=python&logoColor=white)
@@ -17,7 +17,10 @@ The goal of this project is to provide a structured path for learning Python fro
 ## Repository Structure
 
 - [Python-Basics](/01-python-basics/)
-- [Python-Advanced](Inprogress)
+- [Python-Advanced](/02-python-advanced/)
+- [FastAPI](/FastApi/)
+- [Python-Workshops](/03-hands-on-python-workshops/)
+
 
 ## Topics Covered
 

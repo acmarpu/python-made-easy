@@ -1,4 +1,4 @@
-![alt text](https://github.com/acmarpu/images/blob/main/Python/01_python_final_banner.png)
+![alt text](https://github.com/acmarpu/images/blob/main/Python/Final.png)
 
 
 # Python Fundamentals
@@ -9,27 +9,27 @@ This section focuses on the core concepts of Python programming and serves as th
 
 The contents of this section are organized as follows:
 
-- [01_Introduction](/01-python-basics/01_Introduction.md)
-- [02_operators](/01-python-basics/02_operators.md)
-- [03_data_types](/01-python-basics/03_data_types.md)
-- [04_numeric_data_type](/01-python-basics/04_numeric_data_type.ipynb)
-- [05_string_data_type](/01-python-basics/05_string_data_type.ipynb)
-- [06_list_data_types](/01-python-basics/06_list_data_type.ipynb)
-- [07_tuple_data_type](/01-python-basics/07_tuple_data_type.ipynb)
-- [08_set_data_type](/01-python-basics/08_set_data_type.ipynb)
-- [09_dictionary_datatypes](/01-python-basics/09_dictionary_data_type.ipynb)
-- [10_range_data_type](/01-python-basics/10_range_data_type.ipynb)
-- [11_bytes_and_bytesarray_data_types](/01-python-basics/11_bytes_and_bytearray_data_type.ipynb)
-- [12_control_flow_statements](/01-python-basics/12_control_flow_statements.ipynb)
-- [13_conditional_statements](/01-python-basics/13_conditional_statements.ipynb)
-- [14_loop_statement](/01-python-basics/14_loop_statements.ipynb)
-- [15_functions](/01-python-basics/15_functions.ipynb)
-- [16_modules](/01-python-basics/16_modules/)
-- [17_packages](/01-python-basics/17_packages/)
-- [18_Exception_handling](/01-python-basics/18_exception_handling.ipynb)
-- [19_file_handling](/01-python-basics/19_file_handling/)
-- [20_api](/01-python-basics/20_api/)
-- [Practice_Files](/Practice_Files/)
+- [Python Basics](#python-basics)
+    - [Introduction](/01-python-basics/01-Introduction.md)
+    - [Operators](/01-python-basics/02-operators.ipynb)
+    - [Data_types](/01-python-basics/03-data_types.md)
+    - [Numeric_data_type](/01-python-basics/04-numeric_data_type.ipynb)
+    - [String_data_type](/01-python-basics/05-string_data_type.ipynb)
+    - [List_data_types](/01-python-basics/06-list_data_type.ipynb)
+    - [Tuple_data_type](/01-python-basics/07-tuple_data_type.ipynb)
+    - [Set_data_type](/01-python-basics/08-set_data_type.ipynb)
+    - [Dictionary_datatypes](/01-python-basics/09-dictionary_data_type.ipynb)
+    - [Range_data_type](/01-python-basics/10-range_data_type.ipynb)
+    - [Bytes_and_bytesarray_data_types](/01-python-basics/11-bytes_and_bytearray_data_type.ipynb)
+    - [Control_flow_statements](/01-python-basics/12-control_flow_statements.ipynb)
+    - [Conditional_statements](/01-python-basics/13-conditional_statements.ipynb)
+    - [Loop_statement](/01-python-basics/14-loop_statements.ipynb)
+    - [Functions](/01-python-basics/15-functions.ipynb)
+    - [Modules](/01-python-basics/16-modules/)
+    - [Packages](/01-python-basics/17-packages/)
+    - [Exception_handling](/01-python-basics/18-exception_handling.ipynb)
+    - [File_handling](/01-python-basics/19-file_handling/)
+    - [Api](/01-python-basics/20-api/)
 
 ## Getting Started
 
